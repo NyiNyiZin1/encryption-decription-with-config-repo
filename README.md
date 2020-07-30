@@ -1,4 +1,4 @@
-# encryption-decription-with-config-repo
+# Encryption-decription-with-config-repo
 1.Firstly run the 'spring-cloud-config-example' project.
 2.Run the 'spring-cloud-config-client' project.
 
